@@ -1,10 +1,10 @@
-# 👨‍💻 Devuttyy – Aspiring Software Engineer
+# 👨‍💻 DeviManoj – Aspiring Software Engineer
 
 ---
 
 ## 💡 About Me
 
-I’m **Devuttyy**, a B.Tech CSE student at **SJVET, Palai**, passionate about coding, problem-solving, and building impactful software.  
+I’m **Devi**, a B.Tech CSE student at **SJCET, Palai**, passionate about coding, problem-solving, and building impactful software.  
 I’m exploring **web development with React**, **Python frameworks**, and **AI/ML projects**. I enjoy solving problems, learning from challenges (especially tricky bugs 🐞), and contributing to open-source projects. My mission is to grow as a software engineer while creating innovative solutions that make life smarter. 🚀
 
 ---
