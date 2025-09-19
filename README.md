@@ -1,17 +1,11 @@
-# 👋 Hi, I'm Devuttyy
-
-![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
-[![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)](https://github.com/yourusername)
+# 👨‍💻 Devuttyy – Aspiring Software Engineer
 
 ---
 
 ## 💡 About Me
 
-Hi! I’m **Devuttyy**, a B.Tech CSE student at **SJVET, Palai**, passionate about coding, problem-solving, and building impactful software.  
-I’m exploring **web development with React**, **Python frameworks**, and **AI/ML projects**. I love learning from challenges (especially tricky bugs 🐞) and contributing to open-source projects. My mission is to grow as a software engineer while creating innovative solutions that make life smarter. 🚀
-
-![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+I’m **Devuttyy**, a B.Tech CSE student at **SJVET, Palai**, passionate about coding, problem-solving, and building impactful software.  
+I’m exploring **web development with React**, **Python frameworks**, and **AI/ML projects**. I enjoy solving problems, learning from challenges (especially tricky bugs 🐞), and contributing to open-source projects. My mission is to grow as a software engineer while creating innovative solutions that make life smarter. 🚀
 
 ---
 
@@ -35,34 +29,37 @@ I’m exploring **web development with React**, **Python frameworks**, and **AI/
 
 ---
 
-## 🚀 My Projects
+## 🚀 Projects
 
 | Project | Tech Stack | Status |
 |---------|------------|--------|
-| Random Quote Machine | React | 🔥 Live |
+| **Announious App** | React, Node.js, Tailwind CSS | 🔥 Live |
+| Random Quote Machine | React | ✅ Completed |
 | ToDo App | React, LocalStorage | ✅ Completed |
 | Silly Story Generator | JS, HTML, CSS | ✅ Completed |
 | AI & Python Scripts | Python, AI | 🚧 In Progress |
-
-![Projects GIF](https://media.giphy.com/media/3ohc0V8kUhKXfMch9W/giphy.gif)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Devuttyy GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<!-- Overall GitHub stats -->
+![Devuttyy GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devimanoj2005&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devimanoj2005&layout=compact&theme=radical)
+
+<!-- Contribution Graph -->
+
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devuttyy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourlinkedin)  
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)  
-[![GitHub](https://img.shields.io/badge/GitHub-Devuttyy-black?style=for-the-badge&logo=github)](https://github.com/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DeviManoj-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/Devimanoj)  
+
+[![GitHub](https://img.shields.io/badge/GitHub-Devimanoj2005-black?style=for-the-badge&logo=github)](https://github.com/Devimanoj2005)  
 
 ---
 
 > *“Code. Learn. Build. Repeat.”*
-
-![Footer Animation](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
