@@ -22,6 +22,7 @@ I’m exploring *web development with React, *Python frameworks, and AI/ML proje
 - *Python* ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 - *JavaScript* ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 - *C* ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
+- *Java* ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 
 ### Web Development
 - *React* ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
@@ -44,7 +45,6 @@ I’m exploring *web development with React, *Python frameworks, and AI/ML proje
 |---------|------------|--------|
 | **Relationship App** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge&logo=appveyor) |
 | **Serinisphere (Hackathon Project)** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Hackathon](https://img.shields.io/badge/Status-Hackathon-blue?style=for-the-badge&logo=appveyor) |
-| **Random Quote Machine** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&logo=appveyor) |
 | **Tic-Tac-Toe Game** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&logo=appveyor) |
 | **Snake Game** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge&logo=appveyor) |
 | **A Website for Upholstery** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&logo=appveyor) |
