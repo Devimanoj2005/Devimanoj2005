@@ -72,6 +72,24 @@ I’m exploring *web development with React, *Python frameworks, and AI/ML proje
 <!-- Contribution Graph -->
 
 
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=35&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=🌐+Check+out+my+Portfolio!;💻+Devi's+Work+Showcase;🚀+Click+Below+to+Visit" />
+</h1>
+
+
+
+<p align="center">
+  <a href="https://devimanoj2005.github.io/My_Portfoliyo/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-Click%20Here-blue?style=for-the-badge&logo=googlesites&logoColor=white" alt="Portfolio Badge" />
+  </a>
+</p>
+
+
+
+
+
+
 ---
 
 ## 📫 Connect with Me
