@@ -1,5 +1,4 @@
 
----
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=35&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👩‍💻+Hey%2C+I'm+Devi;🚀+Future+Software+Engineer;⚡+Building+Tech+One+Line+at+a+Time" alt="Typing SVG" />
 </h1>
@@ -25,32 +24,35 @@ I’m *Devi*, a B.Tech CSE student at *SJCET, Palai*, passionate about coding, p
 I’m exploring *web development with React, *Python frameworks, and AI/ML projects*. I enjoy solving problems, learning from challenges (especially tricky bugs 🐞), and contributing to open-source projects. My mission is to grow as a software engineer while creating innovative solutions that make life smarter. 🚀
 
 ---
-
-## 🛠 Skills
-
-### Programming Languages & Tools
-- *Python* ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-- *JavaScript* ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-- *C* ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
-- *Java* ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-- *Firebase* ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-- *Figma* ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-- *Canva* ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  
-- *Vercel* ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
-
-### Web Development
-- *React* ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-- *HTML5 / CSS3* ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-- *Tailwind CSS* ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-
-### Frameworks & Tools
-- *Django* ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-
-
-- *Git / GitHub* ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+<h1 align="center">✨ Hey there! I’m <span style="color:#00BFFF;">Devi Manoj</span> 👩‍💻</h1>
+<p align="center">
+  <em>Passionate B.Tech CSE student | Aspiring Software Engineer | Creative Coder 💡</em>
+</p>
 
 ---
 
+<div align="center">
+
+<h2 style="font-size: 28px; font-weight: 700; background: linear-gradient(90deg, #00C9FF, #92FE9D); -webkit-background-clip: text; color: transparent;">
+🚀 Tech Stack 
+</h2>
+
+<div style="display: inline-block; background: linear-gradient(135deg, #1e1e1e, #121212); padding: 20px 25px; border-radius: 16px; box-shadow: 0 0 20px rgba(0, 255, 200, 0.2);">
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,html,css,react,nodejs,express,bootstrap,mysql,firebase,git,github,vscode,figma,vercel&perline=8" 
+  style="transition: transform 0.3s ease-in-out; filter: drop-shadow(0px 0px 4px #00ffc3);" 
+  onmouseover="this.style.transform='scale(1.08)';" 
+  onmouseout="this.style.transform='scale(1)';"/>
+</p>
+
+</div>
+
+<p align="center">
+ 
+</div>
+
+-----
 
 
 ## 🚀 Projects
@@ -108,6 +110,4 @@ I’m exploring *web development with React, *Python frameworks, and AI/ML proje
 
 [![GitHub](https://img.shields.io/badge/GitHub-Devimanoj2005-black?style=for-the-badge&logo=github)](https://github.com/Devimanoj2005)  
 
----
 
-> “Code. Learn. Build. Repeat.”
