@@ -2,13 +2,14 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=35&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👩‍💻+Hey%2C+I'm+Devi;🚀+Future+Software+Engineer;⚡+Building+Tech+One+Line+at+a+Time" alt="Typing SVG" />
 </h1>
+<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 
 <p align="center">
   <em>💻 B.Tech CSE Student | 👩‍💻 Aspiring Software Engineer | 🌐 Open Source Enthusiast</em>
 </p>
 <div align="center">
 <!-- Default Theme -->
-<!--![Snake Animation](https://raw.githubusercontent.com/Anuj579/Anuj579/output/github-contribution-grid-snake.svg)
+<!--![Snake Animation]
 
 <!-- Uncomment the theme you prefer: -->
 
@@ -17,19 +18,19 @@
 
 
 
----
+<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
+
 ## 💡 About Me
 
-I’m *Devi*, a B.Tech CSE student at *SJCET, Palai*, passionate about coding, problem-solving, and building impactful software.  
-I’m exploring *web development with React, *Python frameworks, and AI/ML projects*. I enjoy solving problems, learning from challenges (especially tricky bugs 🐞), and contributing to open-source projects. My mission is to grow as a software engineer while creating innovative solutions that make life smarter. 🚀
+Hi, I'm *DeviManoj* — a curious mind in the world of Computer Science, learning one commit at a time. I love turning ideas into clean, functional code and exploring everything from web development to AI.
+I’m on a journey to become a software engineer who builds meaningful, user-focused solutions, and I dream of growing into a tech entrepreneur who creates products that make a real impact.
+Every project here is a snapshot of what I’m learning, breaking, fixing, and improving.
+Always experimenting. Always evolving. Always shipping something new
 
 ---
-<h1 align="center">✨ Hey there! I’m <span style="color:#00BFFF;">Devi Manoj</span> 👩‍💻</h1>
-<p align="center">
-  <em>Passionate B.Tech CSE student | Aspiring Software Engineer | Creative Coder 💡</em>
-</p>
 
----
+
+
 
 <div align="center">
 
