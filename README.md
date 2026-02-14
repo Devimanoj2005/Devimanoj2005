@@ -8,6 +8,7 @@
   <em>💻 B.Tech CSE Student | 👩‍💻 Aspiring Software Engineer | 🌐 Open Source Enthusiast</em>
 </p>
 <div align="center">
+ 
 <!-- Default Theme -->
 <!--![Snake Animation]
 
@@ -20,7 +21,8 @@
 
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 
-## 💡 About Me
+**<img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" width="50" height="50"/>** **About me**
+
 
 Hi, I'm *DeviManoj* — a curious mind in the world of Computer Science, learning one commit at a time. I love turning ideas into clean, functional code and exploring everything from web development to AI.
 I’m on a journey to become a software engineer who builds meaningful, user-focused solutions, and I dream of growing into a tech entrepreneur who creates products that make a real impact.
@@ -54,36 +56,26 @@ Always experimenting. Always evolving. Always shipping something new
 </div>
 
 -----
-
-
-## 🚀 Projects
-
 | Project | Tech Stack | Status |
 |---------|------------|--------|
-| **Relationship App** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge&logo=appveyor) |
 | **Serinisphere (Hackathon Project)** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Hackathon](https://img.shields.io/badge/Status-Hackathon-blue?style=for-the-badge&logo=appveyor) |
 | **Tic-Tac-Toe Game** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&logo=appveyor) |
-| **Snake Game** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge&logo=appveyor) |
+| **Snake Game** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&logo=appveyor) |
 | **A Website for Upholstery** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&logo=appveyor) |
 | **Announious App** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Live](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge&logo=appveyor) |
 | **Random Quote Machine** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Completed](https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge&logo=appveyor) |
 | **ToDo App** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![LocalStorage](https://img.shields.io/badge/LocalStorage-FFCA28?style=for-the-badge&logo=googlechrome&logoColor=black) | ![Completed](https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge&logo=appveyor) |
 | **Silly Story Generator** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Completed](https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge&logo=appveyor) |
 | **AI & Python Scripts** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-FF6F61?style=for-the-badge) | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge&logo=appveyor) |
-
+| **TogetherMiles** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge&logo=appveyor) |
+| **Study_Buddy** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&logo=appveyor) |
+| **SafePrint** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-FF6F61?style=for-the-badge) | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&logo=appveyor) |
 
 ---
 
 ## 📊 GitHub Stats
 
-<!-- Overall GitHub stats -->
-![Devuttyy GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devimanoj2005&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devimanoj2005&layout=compact&theme=radical)
-
-<!-- Contribution Graph -->
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devimanoj2005&theme=radical)
 
 
 <h1 align="center">
@@ -110,5 +102,9 @@ Always experimenting. Always evolving. Always shipping something new
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DeviManoj-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/Devimanoj)  
 
 [![GitHub](https://img.shields.io/badge/GitHub-Devimanoj2005-black?style=for-the-badge&logo=github)](https://github.com/Devimanoj2005)  
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+
 
 
