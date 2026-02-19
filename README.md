@@ -95,7 +95,6 @@ Always experimenting. Always evolving. Always shipping something new
 
 
 
----
 
 ## 📫 Connect with Me
 
@@ -105,6 +104,6 @@ Always experimenting. Always evolving. Always shipping something new
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
 
 
