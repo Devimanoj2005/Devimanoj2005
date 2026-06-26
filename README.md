@@ -1,109 +1,136 @@
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=35&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👩‍💻+Hey%2C+I'm+Devi;🚀+Future+Software+Engineer;⚡+Building+Tech+One+Line+at+a+Time" alt="Typing SVG" />
-</h1>
-<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
-
-<p align="center">
-  <em>💻 B.Tech CSE Student | 👩‍💻 Aspiring Software Engineer | 🌐 Open Source Enthusiast</em>
-</p>
-<div align="center">
- 
-<!-- Default Theme -->
-<!--![Snake Animation]
-
-<!-- Uncomment the theme you prefer: -->
-
-<!-- 🌑 Dark Theme -->
-![Snake Animation](https://raw.githubusercontent.com/Anuj579/Anuj579/output/github-contribution-grid-snake-dark.svg)
-
-
-
-<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
-
-**<img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" width="50" height="50"/>** **About me**
-
-
-Hi, I'm *DeviManoj* — a curious mind in the world of Computer Science, learning one commit at a time. I love turning ideas into clean, functional code and exploring everything from web development to AI.
-I’m on a journey to become a software engineer who builds meaningful, user-focused solutions, and I dream of growing into a tech entrepreneur who creates products that make a real impact.
-Every project here is a snapshot of what I’m learning, breaking, fixing, and improving.
-Always experimenting. Always evolving. Always shipping something new
-
----
-
-
-
-
 <div align="center">
 
-<h2 style="font-size: 28px; font-weight: 700; background: linear-gradient(90deg, #00C9FF, #92FE9D); -webkit-background-clip: text; color: transparent;">
-🚀 Tech Stack 
-</h2>
-
-<div style="display: inline-block; background: linear-gradient(135deg, #1e1e1e, #121212); padding: 20px 25px; border-radius: 16px; box-shadow: 0 0 20px rgba(0, 255, 200, 0.2);">
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,html,css,react,nodejs,express,bootstrap,mysql,firebase,git,github,vscode,figma,vercel&perline=8" 
-  style="transition: transform 0.3s ease-in-out; filter: drop-shadow(0px 0px 4px #00ffc3);" 
-  onmouseover="this.style.transform='scale(1.08)';" 
-  onmouseout="this.style.transform='scale(1)';"/>
-</p>
-
+<img src="./assets/intro.gif" width="100%" alt="Devi Manoj Intro Animation"/>
+<div align="center">
+  
 </div>
+<br/><br/>
 
-<p align="center">
- 
-</div>
-
------
-| Project | Tech Stack | Status |
-|---------|------------|--------|
-| **Serinisphere (Hackathon Project)** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Hackathon](https://img.shields.io/badge/Status-Hackathon-blue?style=for-the-badge&logo=appveyor) |
-| **Tic-Tac-Toe Game** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&logo=appveyor) |
-| **Snake Game** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&logo=appveyor) |
-| **A Website for Upholstery** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&logo=appveyor) |
-| **Announious App** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Live](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge&logo=appveyor) |
-| **Random Quote Machine** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Completed](https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge&logo=appveyor) |
-| **ToDo App** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![LocalStorage](https://img.shields.io/badge/LocalStorage-FFCA28?style=for-the-badge&logo=googlechrome&logoColor=black) | ![Completed](https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge&logo=appveyor) |
-| **Silly Story Generator** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Completed](https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge&logo=appveyor) |
-| **AI & Python Scripts** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-FF6F61?style=for-the-badge) | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge&logo=appveyor) |
-| **TogetherMiles** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge&logo=appveyor) |
-| **Study_Buddy** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&logo=appveyor) |
-| **SafePrint** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-FF6F61?style=for-the-badge) | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&logo=appveyor) |
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devimanoj2005&theme=radical)
-
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=35&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=🌐+Check+out+my+Portfolio!;💻+Devi's+Work+Showcase;🚀+Click+Below+to+Visit" />
+<h1>
+  Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="28px" width="28px" /> I'm Devi Manoj
 </h1>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
+<h3>Full-Stack Developer · B.Tech CSE · SJCET Palai</h3>
 
-
-
-<p align="center">
-  <a href="https://devimanoj2005.github.io/My_Portfoliyo/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-Click%20Here-blue?style=for-the-badge&logo=googlesites&logoColor=white" alt="Portfolio Badge" />
+<p>
+  <a href="https://komarev.com/ghpvc/?username=Devimanoj2005">
+    <img src="https://komarev.com/ghpvc/?username=Devimanoj2005&label=Profile%20views&color=00FFFF&style=flat-square" alt="Profile views" />
   </a>
 </p>
 
+<p>
+  <a href="https://www.linkedin.com/in/Devimanoj">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:2005devimanoj@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://devimanoj2005.github.io/My_Portfoliyo/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=Building+clean%2C+purposeful+software;Full-Stack+%7C+AI+Tooling+%7C+Open+Source;Always+learning.+Always+shipping."
+  alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
 
 
+## About Me
 
+I'm a Computer Science student with a drive to build software that's functional, purposeful, and user-focused. I work across the full stack—from crafting clean UIs to building robust backends—and I'm always exploring new tools, frameworks, and ideas.
 
+- 🎓 **B.Tech CSE** · SJCET Palai · 2024–2028
+- 💡 Aspiring Software Engineer
+- 🛠 Full-Stack Web Development & AI Integration
+- 🌐 Open Source Contributor
+- 🚀 Always building, always learning
 
+> *"This screen can change my world."*
 
-## 📫 Connect with Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DeviManoj-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/Devimanoj)  
+## 📊 GitHub Stats & Trophies
 
-[![GitHub](https://img.shields.io/badge/GitHub-Devimanoj2005-black?style=for-the-badge&logo=github)](https://github.com/Devimanoj2005)  
+<div align="center">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<img height="175em"
+src="https://github-readme-stats-eight-theta.vercel.app/api?username=Devimanoj2005&show_icons=true&theme=onedark&count_private=true"
+alt="GitHub Stats" />
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
+&nbsp;
 
+<img height="175em"
+src="https://streak-stats.demolab.com/?user=Devimanoj2005&theme=onedark&hide_border=true"
+alt="GitHub Streak" />
 
+<br/><br/>
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Devimanoj2005&theme=onedark&radius=8&area=true&hide_border=true"
+alt="Activity Graph" />
+
+</div>
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+<br/>
+
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Devimanoj2005&langs_count=8&layout=compact&theme=onedark&border_radius=10" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🎮 Contribution Game
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+
+</div>
+
+---
+
+## 🔗 Let's Connect
+
+<div align="center">
+
+<p>
+  <a href="https://www.linkedin.com/in/Devimanoj">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="42" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:2005devimanoj@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="42" />
+  </a>
+</p>
+
+<br/>
+
+<a href="https://www.buymeacoffee.com/chamidudili" target="_blank">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="41" />
+</a>
+
+<br/><br/>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Footer" width="100%" />
+
+</div>
