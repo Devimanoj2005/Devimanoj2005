@@ -1,9 +1,7 @@
 <div align="center">
 
 <img src="./assets/intro.gif" width="100%" alt="Devi Manoj Intro Animation"/>
-<div align="center">
-  
-</div>
+
 <br/><br/>
 
 <h1>
