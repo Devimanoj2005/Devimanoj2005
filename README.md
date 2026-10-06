@@ -1,20 +1,25 @@
-<div align="center">
-
-<img src="./assets/intro.gif" width="100%" alt="Devi Manoj Intro Animation"/>
-
-<br/><br/>
-
-<h1>
-  Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="28px" width="28px" /> I'm Devi Manoj
-</h1>
-<div align="center">
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9FF&height=200&section=header&text=Devi%20Manoj&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20B.Tech%20CSE%20%C2%B7%20SJCET%20Palai&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
+</p>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=00C9FF&center=true&vCenter=true&width=640&lines=Building+clean%2C+purposeful+software;Full-Stack+%7C+AI+Integration+%7C+Open+Source;Technical+Coordinator+%40+IEEE+Kerala+Chapter;Always+learning.+Always+shipping." alt="Typing animation" />
+  </a>
+</p>
+
+
+<div align="center">
+
+<div align="center">
+
 </div>
-<h3>Full-Stack Developer · B.Tech CSE · SJCET Palai</h3>
+
 
 <p>
   <a href="https://komarev.com/ghpvc/?username=Devimanoj2005">
-    <img src="https://komarev.com/ghpvc/?username=Devimanoj2005&label=Profile%20views&color=00FFFF&style=flat-square" alt="Profile views" />
+   
   </a>
 </p>
 
