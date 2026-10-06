@@ -2,51 +2,34 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9FF&height=200&section=header&text=Devi%20Manoj&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20B.Tech%20CSE%20%C2%B7%20SJCET%20Palai&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
 </p>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=00C9FF&center=true&vCenter=true&width=640&lines=Building+clean%2C+purposeful+software;Full-Stack+%7C+AI+Integration+%7C+Open+Source;Technical+Coordinator+%40+IEEE+Kerala+Chapter;Always+learning.+Always+shipping." alt="Typing animation" />
   </a>
 </p>
 
-
-<div align="center">
-
-<div align="center">
-
-</div>
-
-
-<p>
-  <a href="https://komarev.com/ghpvc/?username=Devimanoj2005">
-   
-  </a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Divider" width="100%" />
 </p>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/Devimanoj">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:2005devimanoj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://devimanoj2005.github.io/My_Portfoliyo/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=Building+clean%2C+purposeful+software;Full-Stack+%7C+AI+Tooling+%7C+Open+Source;Always+learning.+Always+shipping."
-  alt="Typing SVG" />
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
-</div>
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Divider" width="100%" />
+</p>
 
 ## About Me
 
